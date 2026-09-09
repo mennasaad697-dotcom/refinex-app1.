@@ -1,0 +1,6 @@
+{
+  "name": "RefineX",
+  "description": "منصة ذكية شاملة تضم محرر مستندات Word احترافي مع أدوات التنسيق الأكاديمي، ومعالج النصوص الذكي متعدد النماذج (Gemini, OpenAI, Claude, Ollama).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
